@@ -1,0 +1,1 @@
+rm hacked.ps1
